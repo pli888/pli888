@@ -35,3 +35,34 @@ Here are some ideas to get you started:
 <div style="text-align: left">
   <img src="https://github-readme-stats.vercel.app/api?username=pli888&hide=stars&show=reviews,prs_merged&commits_year=2026&count_private=true&show_icons=true&theme=radical&hide_title=true" width="400">
 </div>
+
+## Weekly shipping log
+
+<!-- START_SHIPPING_LOG -->
+<details open>
+  <summary><b>📅 Week Ending: 2026-06-26</b></summary>
+
+#### ✈️ In Flight
+- Enable docker setup to install example data ([#2126](https://github.com/GibbonEdu/core/pull/2126))
+
+</details>
+<br />
+<details>
+  <summary><b>📅 Week Ending: 2026-06-19</b></summary>
+
+#### 📚 Documentation
+- Update Gibbon docs home page ([#112](https://github.com/GibbonEdu/docs/pull/112))
+
+</details>
+<br />
+<details>
+  <summary><b>📅 Week Ending: 2026-06-12</b></summary>
+
+#### 📚 Documentation
+- Updated Getting Started section ([#110](https://github.com/GibbonEdu/docs/pull/110))
+
+#### 🧹Chore
+- Fix broken redirect rules ([#109](https://github.com/GibbonEdu/docs/pull/109))
+</details>
+<br />
+<!-- END_SHIPPING_LOG -->
