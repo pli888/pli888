@@ -1,35 +1,56 @@
-## Hi there, I'm Pete Li 👋
+## Hi I'm Pete 👋
 
-* Systems Developer • Technical Writer • PSM-1 Certified Scrum Master
-* From Liverpool, UK and living in Hong Kong, China
-* I'm working on:
+* Systems Developer • PSM-1 Certified Scrum Master • Technical Writer
+* From Liverpool, UK
+* Living in Hong Kong, China
+* Open source projects I'm working on:
   * Documentation and containerisation for [Gibbon](https://gibbonedu.org) school information system
   * Template development for [Good Docs Project](https://www.thegooddocsproject.dev)
   * Lesson maintenance for [Carpentries](https://carpentries.org)
 
-## What I work with
+## Things I work with
 
-**Work Environment:** Linux, Mac, Github Copilot
-
-**Databases:** PostgreSQL, MySQL, SQLite
-
-**Cloud:** AWS (S3, RDS, EFS, IAM, EC2), Wasabi
-
-**Languages:** PHP (Composer, Yii), JavaScript, R, Bash, 
-
-**DevOps:** Docker, Terraform, Ansible, GitLab CI
-
-**Web:** HTML, CSS, Bootstrap, Carrd, NGINX, Apache, WordPress
-
-**Tools:** Git, GitHub, GitLab
-
-**Technical Writing:** Markdown, Diataxis, documentation audit 
-
-**Business Analysis:** Writing user stories and acceptance criteria using Cucumber
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-46a2f1?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-46a2f1?style=flat-square&logo=ansible&logoColor=white" />
+  <img alt="GitLabCI" src="https://img.shields.io/badge/-GitLab CI-46a2f1?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-844fba?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-844fba?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />  
+  <img alt="Wasabi" src="https://custom-icon-badges.demolab.com/badge/Wasabi-%23FF9900.svg?logo=wasabi&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-3eaaaf?style=flat-square&logo=php&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-3eaaaf?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-3eaaaf?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-3eaaaf?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-3eaaaf?logo=gnubash&logoColor=fff" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-GitHub-F05032?style=flat-square&logo=github&logoColor=white" />
+  <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-F05032?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-FFB3C7?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-FFB3C7?style=flat-square&logo=css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-FFB3C7?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Carrd" src="https://img.shields.io/badge/-Carrd-FFB3C7?style=flat-square&logo=carrd&logoColor=white" />
+  <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-FFB3C7?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Apache" src="https://img.shields.io/badge/-Apache-FFB3C7?style=flat-square&logo=apache&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-FFB3C7?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-5277C3?style=flat-square&logo=markdown&logoColor=white" />
+</p>
 
 ## I also have experience of
 
-Java, Python, NodeJS, Grafana, Selenium, Cloudflare, Django, Handlebars, Laravel, Prometheus, Jupyter, Vagrant
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%23ED8B00.svg?logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-%23ED8B00.svg?logo=django&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23ED8B00.svg?logo=jupyter&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23ED8B00.svg?logo=grafana&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23ED8B00.svg?logo=prometheus&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%23ED8B00.svg?logo=selenium&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23ED8B00.svg?logo=cloudflare&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23ED8B00.svg?logo=laravel&logoColor=white" />
+  <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-%23ED8B00.svg?logo=vagrant&logoColor=white" />
+</p>
 
 ## GitHub snapshot
 
