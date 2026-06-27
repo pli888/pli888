@@ -2,8 +2,7 @@
 * Systems Developer • Scrum Master (PSM-1)
 * From Liverpool, UK
 * Living in Hong Kong, China
-* Learning technical writing
-* Open source projects I work on:
+* Learning technical writing by working on these open source projects:
   * Documentation and containerisation for [Gibbon](https://gibbonedu.org) school information system
   * Template development for [Good Docs Project](https://www.thegooddocsproject.dev)
   * Lesson maintenance for [Carpentries](https://carpentries.org)
@@ -38,20 +37,21 @@
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-5277C3?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
-## I also have experience using
-
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-%23ED8B00.svg?logo=python&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-%23ED8B00.svg?logo=django&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23ED8B00.svg?logo=jupyter&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23ED8B00.svg?logo=grafana&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23ED8B00.svg?logo=prometheus&logoColor=white" />
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%23ED8B00.svg?logo=selenium&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23ED8B00.svg?logo=cloudflare&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23ED8B00.svg?logo=laravel&logoColor=white" />
-  <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-%23ED8B00.svg?logo=vagrant&logoColor=white" />
-</p>
+<details>
+  <summary><b>I also have experience using</b></summary>
+  <p>
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-%23ED8B00.svg?logo=python&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/Django-%23ED8B00.svg?logo=django&logoColor=white" />
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23ED8B00.svg?logo=jupyter&logoColor=white" />
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23ED8B00.svg?logo=grafana&logoColor=white" />
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23ED8B00.svg?logo=prometheus&logoColor=white" />
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%23ED8B00.svg?logo=selenium&logoColor=white" />
+    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23ED8B00.svg?logo=cloudflare&logoColor=white" />
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23ED8B00.svg?logo=laravel&logoColor=white" />
+    <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-%23ED8B00.svg?logo=vagrant&logoColor=white" />
+  </p>
+</details>
 
 ## GitHub snapshot
 
