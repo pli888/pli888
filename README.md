@@ -100,20 +100,3 @@
 - Update installation documentation on Mac [#81](https://github.com/GibbonEdu/docs/pull/81)
 </details>
 <!-- END_SHIPPING_LOG -->
-
-## Writing Portfolio
-
-This section contains examples of scientific and technical content I have written during my career and community work.
-
-### Technical Writing
-
-### Scientific Writing
-
-#### First Author Publications
-
-### Grant Proposal
-
-### Newsletters
-
-### Conference Write-Up
-
