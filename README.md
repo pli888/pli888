@@ -2,7 +2,7 @@
 * Systems Developer • Scrum Master (PSM-1)
 * From Liverpool, UK
 * Living in Hong Kong, China
-* Learning technical writing by working on these open source projects:
+* Learning technical writing on these open source projects:
   * Documentation and containerisation for [Gibbon](https://gibbonedu.org) school information system
   * Template development for [Good Docs Project](https://www.thegooddocsproject.dev)
   * Lesson maintenance for [Carpentries](https://carpentries.org)
@@ -33,8 +33,10 @@
   <img alt="Carrd" src="https://img.shields.io/badge/-Carrd-FFB3C7?style=flat-square&logo=carrd&logoColor=white" />
   <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-FFB3C7?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-FFB3C7?style=flat-square&logo=apache&logoColor=white" />
+  <img alt="Let's Encrypt" src="https://img.shields.io/badge/-Let's%20Encrypt-FFB3C7?style=flat-square&logo=letsencrypt&logoColor=white" />
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-FFB3C7?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-5277C3?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="Cucumber" src="https://img.shields.io/badge/-Cucumber-5277C3?style=flat-square&logo=cucumber&logoColor=white" />
 </p>
 
 <details>
