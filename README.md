@@ -58,17 +58,25 @@
 ## GitHub snapshot
 
 <div style="text-align: left">
-  <img alt="GitHub snapshot" src="https://github-readme-stats.vercel.app/api?username=pli888&hide=stars&show=reviews,prs_merged&commits_year=2026&count_private=true&show_icons=true&theme=radical&hide_title=true" width="400" />
+  <img alt="GitHub snapshot" src="https://github-stats-extended.vercel.app/api?username=pli888&hide=stars&contribs_include_own_repos=false&commits_year=2026&rank_icon=github&show_icons=true&theme=light_github" width="400" />
 </div>
 
 ## Shipping log
 
 <!-- START_SHIPPING_LOG -->
 <details open>
+ <summary><b>September 2026</b></summary>
+
+#### 🤩 Features
+- Run unit, acceptance and installer tests in local docker environment [#2160](https://github.com/GibbonEdu/core/pull/2160) [Under Review]
+
+</details>
+<br />
+<details>
   <summary><b>June 2026</b></summary>
 
 #### 🤩 Features
-- Enable docker setup to install example data [#2126](https://github.com/GibbonEdu/core/pull/2126) (Under Review)
+- Enable docker setup to install example data [#2126](https://github.com/GibbonEdu/core/pull/2126)
 
 #### 📚 Docs
 - Update Gibbon docs home page [#112](https://github.com/GibbonEdu/docs/pull/112)
